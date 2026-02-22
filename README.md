@@ -1,0 +1,25 @@
+# cyber-gate-worker-web-ec1
+
+Scalable backend service for AI workloads
+
+## Installation
+
+```bash
+mvn install
+```
+
+## Usage
+
+```bash
+mvn spring-boot:run
+```
+
+## Testing
+
+```bash
+mvn test
+```
+
+## License
+
+MIT
